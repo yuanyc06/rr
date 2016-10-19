@@ -1,6 +1,6 @@
 This software implements the regularized random walk ranking (RR) saliency detection algorithm which is fully described in [1]. Please cite [1] if you use this code.
 
-- Author: [Yuchen Yuan](mailto:yuchen.yuan@sydney.edu.au)
+- Author: [Yuchen Yuan](mailto:yyua4798@uni.sydney.edu.au)
 - Organization: The BMIT Group, School of Information Technologies, The University of Sydney
 - Last updated: Oct 19, 2016
 
